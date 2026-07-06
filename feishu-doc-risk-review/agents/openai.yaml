@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞书文档风险审查"
+  short_description: "审查飞书文档风险，生成评论和局部改写建议"
+  default_prompt: "Use $feishu-doc-risk-review to review this Feishu document for risks and add replacement-ready comments where needed."
